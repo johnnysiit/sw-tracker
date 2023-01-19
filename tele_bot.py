@@ -1,10 +1,10 @@
 import requests
 
 
-def send_to_telegram(message, id):
+def send_to_telegram(message):
 
   apiToken = ''
-  chatID = id
+  chatID = ''
   apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
 
   try:
@@ -17,5 +17,4 @@ def send_to_telegram(message, id):
 
 
 def send(message):
-  send_to_telegram(message, "")
-  send_to_telegram(message, "")
+  send_to_telegram(message)
