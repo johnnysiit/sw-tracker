@@ -1,5 +1,7 @@
-# swa_tracker
-SWA Tracker
+# SWA Tracker
+
+Warning: This maynot work in some Chrome version. SW will also upgrade their cyber security features. 
+The code still working on Jan 19, 2023. Submit a issue if it is not working anymore.
 
 ## Usage:
 ### First Step
@@ -15,9 +17,13 @@ MDW:PHX:2023-03-03
 ### Second Step
 Replace ```ChatID``` and Telegram API ```token``` in ```tele_bot.py```
 
+
+### Telegram Bot Help
+##### How to create a Telegram Bot?
 If you have question on Telegram Bot, the following resources might helps
 How to create a telegram bot [How to create a telegram bot]("https://learn.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0")
 
+##### How to find the Chat ID?
 To get Telegram Bot ChatID, you should...
 1. Use your browser to open following link
 2. replace ```<YourBOTToken>``` with your own token.
@@ -25,5 +31,4 @@ To get Telegram Bot ChatID, you should...
 4. Then send a message to a Telegram bot
 5. Refresh the website. You should get the json included chatid
 
-### Tohttps://learn.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0
-Warning: This maynot work in some Chrome version. SW will also upgrade their cyber security features. The code still working on Jan 19, 2023. Submit a issue if it is not working anymore.
+
