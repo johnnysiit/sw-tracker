@@ -16,7 +16,7 @@ MDW:PHX:2023-03-03
 Replace ```ChatID``` and Telegram API ```token``` in ```tele_bot.py```
 
 If you have question on Telegram Bot, the following resources might helps
-[How to create a telegram bot]("https://learn.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0")
+How to create a telegram bot [How to create a telegram bot]("https://learn.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0")
 
 To get Telegram Bot ChatID, you should...
 1. Use your browser to open following link
