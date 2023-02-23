@@ -1,7 +1,11 @@
 # SWA Tracker
 
 Warning: This maynot work in some Chrome version. SW will also upgrade their cyber security features. 
-The code still working on Jan 19, 2023. Submit a issue if it is not working anymore.
+The code still working on Feb 23, 2023. Submit a issue if it is not working anymore.
+
+### Running Examples:
+<img width="402" alt="Screenshot 2023-02-23 at 2 36 54 PM" src="https://user-images.githubusercontent.com/37731817/221024368-86f8cdf3-1725-4de0-903c-43c4183943a7.png">
+
 
 ## Usage:
 ### First Step
